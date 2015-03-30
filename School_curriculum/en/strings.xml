@@ -1,0 +1,55 @@
+<!-- 
+    (c)2009 Blagovest Petrov
+    blagovest <{At}> petrovs -dot- info
+    http://petrovs.info
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+-->
+
+<strings>
+
+<GADGET_NAME>School Curriculum</GADGET_NAME>
+<GADGET_DESCRIPTION>Dummy school curriculum gadget</GADGET_DESCRIPTION>
+<GADGET_COPYRIGHT>Copyright (c) 2009 Blagovest Petrov</GADGET_COPYRIGHT>
+<GADGET_WEBSITE>http://petrovs.info/</GADGET_WEBSITE>
+<GADGET_ABOUT>My first google gadget. It's licensed under GPL V3</GADGET_ABOUT>
+
+<HELLO_WORLD>Hello World!</HELLO_WORLD>
+
+<DAY_HOLIDAY>ПОЧИВЕН ДЕН</DAY_HOLIDAY>
+<DAY_MONDAY>ПОНЕДЕЛНИК</DAY_MONDAY>
+<DAY_TUESDAY>ВТОРНИК</DAY_TUESDAY>
+<DAY_WEDNESDAY>СРЯДА</DAY_WEDNESDAY>
+<DAY_THURSDAY>ЧЕТВЪРТЪК</DAY_THURSDAY>
+<DAY_FRIDAY>ПЕТЪК</DAY_FRIDAY>
+<DATE_ERROR>Грешка в датата</DATE_ERROR>
+<CHOOSE_DAY>Изберете друг ден от седмицата</CHOOSE_DAY>
+
+<SUBJ_MATHS>Математика</SUBJ_MATHS>
+<SUBJ_BULGARIAN>Български</SUBJ_BULGARIAN>
+<SUBJ_ENGLISH>Английски</SUBJ_ENGLISH>
+<SUBJ_GERMAN>Немски</SUBJ_GERMAN>
+<SUBJ_PHILOSOPHY>Философия</SUBJ_PHILOSOPHY>
+<SUBJ_OOP>ООП</SUBJ_OOP>
+<SUBJ_PT>ТП</SUBJ_PT>
+<SUBJ_WD>Уеб Дизайн</SUBJ_WD>
+<SUBJ_HISTORY>История</SUBJ_HISTORY>
+<SUBJ_GYM>Физкултура</SUBJ_GYM>
+<SUBJ_DB>СУБД</SUBJ_DB>
+<SUBJ_OC>ОК</SUBJ_OC>
+<SUBJ_MATHS_ZIP>ЗИП Математика</SUBJ_MATHS_ZIP>
+<SUBJ_CL>ЧКР</SUBJ_CL>
+
+</strings>
